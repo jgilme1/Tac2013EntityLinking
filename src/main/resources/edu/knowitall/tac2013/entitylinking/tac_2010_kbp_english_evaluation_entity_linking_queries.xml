@@ -1,0 +1,1003 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kbpentlink>
+  <query id="EL007207">
+    <name>Cabo</name>
+    <docid>eng-WL-11-174579-12936196</docid>
+    <entity>E0632602</entity>
+  </query>
+  <query id="EL013607">
+    <name>Washington DC</name>
+    <docid>AFP_ENG_20081115.0064.LDC2009T13</docid>
+    <entity>E0401466</entity>
+  </query>
+  <query id="EL013939">
+    <name>Holli Chmela</name>
+    <docid>NYT_ENG_20080104.0171.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013481">
+    <name>COLUMBUS</name>
+    <docid>APW_ENG_20071101.0893.LDC2009T13</docid>
+    <entity>E0077881</entity>
+  </query>
+  <query id="EL012639">
+    <name>NCTA</name>
+    <docid>APW_ENG_20070910.1743.LDC2009T13</docid>
+    <entity>E0391220</entity>
+  </query>
+  <query id="EL006820">
+    <name>Washington Times</name>
+    <docid>eng-NG-31-148121-10557646</docid>
+    <entity>E0784457</entity>
+  </query>
+  <query id="EL011847">
+    <name>Charlie Swift</name>
+    <docid>LTW_ENG_20080729.0146.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011756">
+    <name>Carl Brizzi</name>
+    <docid>APW_ENG_20070116.1673.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011232">
+    <name>Metro-Goldwyn-Mayer Studios</name>
+    <docid>APW_ENG_20071218.1144.LDC2009T13</docid>
+    <entity>E0337311</entity>
+  </query>
+  <query id="EL013813">
+    <name>PTTEP</name>
+    <docid>XIN_ENG_20071127.0131.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL014067">
+    <name>Charlie Miranda</name>
+    <docid>NYT_ENG_20081216.0001.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL003637">
+    <name>Ali Mostofi</name>
+    <docid>eng-NG-31-100463-10831207</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL009392">
+    <name>Hoffman</name>
+    <docid>eng-WL-109-174581-12950774</docid>
+    <entity>E0087911</entity>
+  </query>
+  <query id="EL012892">
+    <name>Jokela</name>
+    <docid>XIN_ENG_20080924.0237.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL006557">
+    <name>South African Communist Party</name>
+    <docid>eng-NG-31-146525-10432007</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL000543">
+    <name>Burma</name>
+    <docid>eng-WL-11-174596-12954284</docid>
+    <entity>E0431500</entity>
+  </query>
+  <query id="EL011813">
+    <name>Cesaria Evora</name>
+    <docid>NYT_ENG_20070520.0044.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL006896">
+    <name>World Health Organisation</name>
+    <docid>eng-NG-31-136947-9793681</docid>
+    <entity>E0725535</entity>
+  </query>
+  <query id="EL004941">
+    <name>Rocco</name>
+    <docid>eng-WL-11-174595-12967716</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012894">
+    <name>Jokela</name>
+    <docid>APW_ENG_20071108.1234.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011981">
+    <name>NCIC</name>
+    <docid>LTW_ENG_20070215.0053.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011805">
+    <name>Cecilia Malmstrom</name>
+    <docid>APW_ENG_20080527.0555.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013097">
+    <name>Riyadh</name>
+    <docid>AFP_ENG_20071117.0166.LDC2009T13</docid>
+    <entity>E0031594</entity>
+  </query>
+  <query id="EL013446">
+    <name>Mobile</name>
+    <docid>NYT_ENG_20070920.0121.LDC2009T13</docid>
+    <entity>E0583976</entity>
+  </query>
+  <query id="EL009138">
+    <name>Bob Dole</name>
+    <docid>eng-NG-31-142689-10072870</docid>
+    <entity>E0405715</entity>
+  </query>
+  <query id="EL011498">
+    <name>Refoundation Communists</name>
+    <docid>AFP_ENG_20080415.0217.LDC2009T13</docid>
+    <entity>E0509901</entity>
+  </query>
+  <query id="EL006340">
+    <name>Pew Research Center</name>
+    <docid>eng-NG-31-142692-10073373</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL004745">
+    <name>Norman Podhoretz</name>
+    <docid>eng-NG-31-141913-9976197</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013677">
+    <name>Davos</name>
+    <docid>APW_ENG_20070131.0496.LDC2009T13</docid>
+    <entity>E0763364</entity>
+  </query>
+  <query id="EL011839">
+    <name>Charlie Dressen</name>
+    <docid>NYT_ENG_20080725.0125.LDC2009T13</docid>
+    <entity>E0219212</entity>
+  </query>
+  <query id="EL012150">
+    <name>Marufu</name>
+    <docid>APW_ENG_20080401.1399.LDC2009T13</docid>
+    <entity>E0325764</entity>
+  </query>
+  <query id="EL001613">
+    <name>Key West</name>
+    <docid>eng-NG-31-138554-12200339</docid>
+    <entity>E0633385</entity>
+  </query>
+  <query id="EL010892">
+    <name>UCLA Medical Center</name>
+    <docid>eng-NG-31-142679-10067722</docid>
+    <entity>E0823479</entity>
+  </query>
+  <query id="EL013592">
+    <name>ARGENTINA</name>
+    <docid>APW_ENG_20080819.0336.LDC2009T13</docid>
+    <entity>E0533047</entity>
+  </query>
+  <query id="EL005201">
+    <name>William Ayers</name>
+    <docid>eng-NG-31-142159-10035082</docid>
+    <entity>E0787369</entity>
+  </query>
+  <query id="EL010874">
+    <name>The Associated Press</name>
+    <docid>eng-WL-11-174596-12951423</docid>
+    <entity>E0601466</entity>
+  </query>
+  <query id="EL002889">
+    <name>Sarasota</name>
+    <docid>eng-WL-11-174575-12947107</docid>
+    <entity>E0469627</entity>
+  </query>
+  <query id="EL012788">
+    <name>NWF</name>
+    <docid>XIN_ENG_20070309.0310.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL008656">
+    <name>Sao Paulo</name>
+    <docid>eng-WL-11-174646-13000564</docid>
+    <entity>E0375332</entity>
+  </query>
+  <query id="EL011043">
+    <name>Wesleyan University</name>
+    <docid>eng-WL-11-174575-12945614</docid>
+    <entity>E0729255</entity>
+  </query>
+  <query id="EL012161">
+    <name>Charles Larson</name>
+    <docid>LTW_ENG_20080919.0105.LDC2009T13</docid>
+    <entity>E0116521</entity>
+  </query>
+  <query id="EL013685">
+    <name>Davos</name>
+    <docid>APW_ENG_20000215.0070.LDC2007T07</docid>
+    <entity>E0763364</entity>
+  </query>
+  <query id="EL012607">
+    <name>Haren</name>
+    <docid>APW_ENG_20080813.0337.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012668">
+    <name>Armenia</name>
+    <docid>AFP_ENG_20081018.0036.LDC2009T13</docid>
+    <entity>E0621031</entity>
+  </query>
+  <query id="EL013675">
+    <name>Kunduz</name>
+    <docid>AFP_ENG_20070523.0004.LDC2009T13</docid>
+    <entity>E0675891</entity>
+  </query>
+  <query id="EL013591">
+    <name>ARGENTINA</name>
+    <docid>LTW_ENG_20080829.0122.LDC2009T13</docid>
+    <entity>E0533047</entity>
+  </query>
+  <query id="EL013081">
+    <name>Manhasset</name>
+    <docid>NYT_ENG_20070824.0220.LDC2009T13</docid>
+    <entity>E0522840</entity>
+  </query>
+  <query id="EL011874">
+    <name>Air Group Inc.</name>
+    <docid>APW_ENG_20070424.0181.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL001920">
+    <name>Maryland</name>
+    <docid>eng-WL-11-174596-12954946</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011964">
+    <name>Andreas Ottl</name>
+    <docid>AFP_ENG_20080127.0224.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL001436">
+    <name>Irvine</name>
+    <docid>eng-WL-11-174596-12955052</docid>
+    <entity>E0696356</entity>
+  </query>
+  <query id="EL006607">
+    <name>The Herald</name>
+    <docid>eng-NG-31-142719-10088410</docid>
+    <entity>E0803920</entity>
+  </query>
+  <query id="EL006888">
+    <name>World Health Organisation</name>
+    <docid>eng-NG-31-106351-11986322</docid>
+    <entity>E0725535</entity>
+  </query>
+  <query id="EL013024">
+    <name>HOLLYWOOD</name>
+    <docid>NYT_ENG_20070501.0009.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL001593">
+    <name>Kenya</name>
+    <docid>eng-WL-11-174575-12946102</docid>
+    <entity>E0640127</entity>
+  </query>
+  <query id="EL011833">
+    <name>Charles Rupprecht</name>
+    <docid>AFP_ENG_20070907.0102.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL005926">
+    <name>International Energy Agency</name>
+    <docid>eng-WL-11-99241-11003400</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL000974">
+    <name>Daytona Beach</name>
+    <docid>eng-NG-31-147215-10492924</docid>
+    <entity>E0121293</entity>
+  </query>
+  <query id="EL001492">
+    <name>KABUL</name>
+    <docid>eng-NG-31-102460-11645012</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL006848">
+    <name>Western Union</name>
+    <docid>eng-NG-31-100842-11882152</docid>
+    <entity>E0771852</entity>
+  </query>
+  <query id="EL013422">
+    <name>Nepal</name>
+    <docid>NYT_ENG_20070731.0067.LDC2009T13</docid>
+    <entity>E0652402</entity>
+  </query>
+  <query id="EL006645">
+    <name>UC Irvine</name>
+    <docid>eng-NG-31-137627-9799718</docid>
+    <entity>E0156976</entity>
+  </query>
+  <query id="EL012008">
+    <name>Mass.</name>
+    <docid>NYT_ENG_20080819.0069.LDC2009T13</docid>
+    <entity>E0505048</entity>
+  </query>
+  <query id="EL012517">
+    <name>Colorado City</name>
+    <docid>NYT_ENG_20070913.0210.LDC2009T13</docid>
+    <entity>E0566559</entity>
+  </query>
+  <query id="EL005093">
+    <name>Stella</name>
+    <docid>eng-WL-11-174598-12965426</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL002606">
+    <name>Philadelphia</name>
+    <docid>eng-WL-11-174584-12964424</docid>
+    <entity>E0642032</entity>
+  </query>
+  <query id="EL013543">
+    <name>Carlisle</name>
+    <docid>AFP_ENG_20081119.0515.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011380">
+    <name>NLF</name>
+    <docid>APW_ENG_20070601.0522.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012133">
+    <name>Bisher al-Rawi</name>
+    <docid>APW_ENG_20070729.0339.LDC2009T13</docid>
+    <entity>E0487663</entity>
+  </query>
+  <query id="EL005731">
+    <name>General Electric</name>
+    <docid>eng-NG-31-139227-12204732</docid>
+    <entity>E0548088</entity>
+  </query>
+  <query id="EL009936">
+    <name>Warren Buffett</name>
+    <docid>eng-NG-31-102460-10984719</docid>
+    <entity>E0202467</entity>
+  </query>
+  <query id="EL006264">
+    <name>Oakland Raiders</name>
+    <docid>eng-NG-31-140124-9873197</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL003379">
+    <name>Venice</name>
+    <docid>eng-WL-11-174646-13000654</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL000287">
+    <name>Baltimore City</name>
+    <docid>eng-NG-31-143594-10249922</docid>
+    <entity>E0665944</entity>
+  </query>
+  <query id="EL012911">
+    <name>Observer Media Group</name>
+    <docid>NYT_ENG_20080422.0174.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL004706">
+    <name>Neal Sundermann</name>
+    <docid>eng-NG-31-102750-11887648</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL009456">
+    <name>Jessica Simpson</name>
+    <docid>eng-NG-31-141957-9978646</docid>
+    <entity>E0474277</entity>
+  </query>
+  <query id="EL004638">
+    <name>Michael Bloomberg</name>
+    <docid>eng-NG-31-142498-10050012</docid>
+    <entity>E0137250</entity>
+  </query>
+  <query id="EL005371">
+    <name>British Broadcasting Corporation</name>
+    <docid>eng-NG-31-142146-10009724</docid>
+    <entity>E0384127</entity>
+  </query>
+  <query id="EL012878">
+    <name>Guayaquil</name>
+    <docid>LTW_ENG_20070519.0014.LDC2009T13</docid>
+    <entity>E0152870</entity>
+  </query>
+  <query id="EL010941">
+    <name>US Navy</name>
+    <docid>eng-NG-31-142435-10045755</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011835">
+    <name>Charlie Dressen</name>
+    <docid>NYT_ENG_20071117.0140.LDC2009T13</docid>
+    <entity>E0219212</entity>
+  </query>
+  <query id="EL010846">
+    <name>Tamil Tigers</name>
+    <docid>eng-NG-31-142157-10033228</docid>
+    <entity>E0466632</entity>
+  </query>
+  <query id="EL007028">
+    <name>Baluchistan</name>
+    <docid>eng-NG-31-105280-11940886</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL005340">
+    <name>Automotive News</name>
+    <docid>eng-NG-31-100481-11540953</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL003619">
+    <name>Alan Jackson</name>
+    <docid>eng-NG-31-102599-10990330</docid>
+    <entity>E0068873</entity>
+  </query>
+  <query id="EL002509">
+    <name>Palestine</name>
+    <docid>eng-WL-11-174596-12955009</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012094">
+    <name>MTR</name>
+    <docid>XIN_ENG_20071202.0058.LDC2009T13</docid>
+    <entity>E0335855</entity>
+  </query>
+  <query id="EL011078">
+    <name>Champions' League</name>
+    <docid>APW_ENG_20071027.0762.LDC2009T13</docid>
+    <entity>E0023604</entity>
+  </query>
+  <query id="EL011837">
+    <name>Charlie Dressen</name>
+    <docid>NYT_ENG_20080323.0080.LDC2009T13</docid>
+    <entity>E0219212</entity>
+  </query>
+  <query id="EL012152">
+    <name>Marufu</name>
+    <docid>APW_ENG_20070717.0745.LDC2009T13</docid>
+    <entity>E0325764</entity>
+  </query>
+  <query id="EL004430">
+    <name>Ken Starr</name>
+    <docid>eng-WL-11-174611-12976683</docid>
+    <entity>E0629007</entity>
+  </query>
+  <query id="EL012882">
+    <name>Guayaquil</name>
+    <docid>XIN_ENG_20070131.0436.LDC2009T13</docid>
+    <entity>E0152870</entity>
+  </query>
+  <query id="EL003992">
+    <name>DeGeneres</name>
+    <docid>eng-WL-11-174611-12979657</docid>
+    <entity>E0337523</entity>
+  </query>
+  <query id="EL014014">
+    <name>Mohammad Kareem</name>
+    <docid>APW_ENG_20081106.0684.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011236">
+    <name>Metro-Goldwyn-Mayer Studios</name>
+    <docid>NYT_ENG_20080813.0238.LDC2009T13</docid>
+    <entity>E0337311</entity>
+  </query>
+  <query id="EL010966">
+    <name>US Senate</name>
+    <docid>eng-WL-11-99176-10808005</docid>
+    <entity>E0593713</entity>
+  </query>
+  <query id="EL004202">
+    <name>Gwen Stefani</name>
+    <docid>eng-NG-31-141960-9984359</docid>
+    <entity>E0312210</entity>
+  </query>
+  <query id="EL002949">
+    <name>South Dakota</name>
+    <docid>eng-WL-11-174575-12946884</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL005380">
+    <name>CCC</name>
+    <docid>eng-NG-31-142885-10106516</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011255">
+    <name>National Development and Reform Committee</name>
+    <docid>XIN_ENG_20081127.0332.LDC2009T13</docid>
+    <entity>E0085020</entity>
+  </query>
+  <query id="EL011802">
+    <name>Cecilia Malmstrom</name>
+    <docid>APW_ENG_20070212.0846.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013203">
+    <name>National Transportation Board</name>
+    <docid>APW_ENG_20070605.1170.LDC2009T13</docid>
+    <entity>E0616377</entity>
+  </query>
+  <query id="EL013174">
+    <name>Marvel Entertainment Inc.</name>
+    <docid>APW_ENG_20081104.0942.LDC2009T13</docid>
+    <entity>E0620347</entity>
+  </query>
+  <query id="EL012135">
+    <name>Bisher al-Rawi</name>
+    <docid>AFP_ENG_20070725.0152.LDC2009T13</docid>
+    <entity>E0487663</entity>
+  </query>
+  <query id="EL011220">
+    <name>Maruti Udyog</name>
+    <docid>AFP_ENG_20070205.0081.LDC2009T13</docid>
+    <entity>E0662987</entity>
+  </query>
+  <query id="EL006182">
+    <name>National Vanguard</name>
+    <docid>eng-NG-31-142148-10020533</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013913">
+    <name>Du Wei</name>
+    <docid>XIN_ENG_20070105.0050.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL004476">
+    <name>LeAnn Rimes</name>
+    <docid>eng-NG-31-102599-10998988</docid>
+    <entity>E0518665</entity>
+  </query>
+  <query id="EL012925">
+    <name>Free Trade Union</name>
+    <docid>XIN_ENG_20080501.0070.LDC2009T13</docid>
+    <entity>E0468402</entity>
+  </query>
+  <query id="EL013996">
+    <name>Li Chengwen</name>
+    <docid>APW_ENG_20081031.1187.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012091">
+    <name>MTR</name>
+    <docid>AFP_ENG_20070517.0344.LDC2009T13</docid>
+    <entity>E0335855</entity>
+  </query>
+  <query id="EL010769">
+    <name>Senate Foreign Relations Committee</name>
+    <docid>eng-NG-31-141913-9975899</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL006898">
+    <name>World Health Organisation</name>
+    <docid>eng-WL-11-174596-12952964</docid>
+    <entity>E0725535</entity>
+  </query>
+  <query id="EL004461">
+    <name>Larry McMillan</name>
+    <docid>eng-NG-31-102765-11650527</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012146">
+    <name>Bisher al-Rawi</name>
+    <docid>AFP_ENG_20070329.0459.LDC2009T13</docid>
+    <entity>E0487663</entity>
+  </query>
+  <query id="EL007246">
+    <name>Chile</name>
+    <docid>eng-WL-11-174596-12955896</docid>
+    <entity>E0071746</entity>
+  </query>
+  <query id="EL012681">
+    <name>HONIARA</name>
+    <docid>APW_ENG_20070403.0330.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL004230">
+    <name>Hermann Oldenberg</name>
+    <docid>eng-NG-31-142424-10044659</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL005066">
+    <name>Shoghi Effendi</name>
+    <docid>eng-NG-31-142495-10047405</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL009358">
+    <name>Gordon Brown</name>
+    <docid>eng-NG-31-100316-11634643</docid>
+    <entity>E0455080</entity>
+  </query>
+  <query id="EL012307">
+    <name>Hennepin County</name>
+    <docid>NYT_ENG_20080704.0104.LDC2009T13</docid>
+    <entity>E0728471</entity>
+  </query>
+  <query id="EL009588">
+    <name>Lester Brown</name>
+    <docid>eng-NG-31-142506-10057873</docid>
+    <entity>E0068401</entity>
+  </query>
+  <query id="EL014009">
+    <name>Michael Szymanczyk</name>
+    <docid>NYT_ENG_20070305.0021.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL004080">
+    <name>Ed Zwick</name>
+    <docid>eng-WL-109-174581-12949967</docid>
+    <entity>E0131347</entity>
+  </query>
+  <query id="EL003674">
+    <name>Amy Goodman</name>
+    <docid>eng-NG-31-142502-10054216</docid>
+    <entity>E0495753</entity>
+  </query>
+  <query id="EL010043">
+    <name>Woody Allen</name>
+    <docid>eng-NG-31-100316-11634409</docid>
+    <entity>E0597824</entity>
+  </query>
+  <query id="EL005326">
+    <name>Armani Exchange</name>
+    <docid>eng-WL-11-174592-12941871</docid>
+    <entity>E0018131</entity>
+  </query>
+  <query id="EL011142">
+    <name>ILNA news agency</name>
+    <docid>AFP_ENG_20070519.0132.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013794">
+    <name>Waikiki</name>
+    <docid>NYT_ENG_20070429.0008.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013621">
+    <name>SMART</name>
+    <docid>XIN_ENG_20070726.0413.LDC2009T13</docid>
+    <entity>E0805629</entity>
+  </query>
+  <query id="EL002982">
+    <name>Spain</name>
+    <docid>eng-WL-11-174595-12967698</docid>
+    <entity>E0276658</entity>
+  </query>
+  <query id="EL009085">
+    <name>Barbara Streisand</name>
+    <docid>eng-NG-31-141964-9986401</docid>
+    <entity>E0237686</entity>
+  </query>
+  <query id="EL006495">
+    <name>SPP</name>
+    <docid>eng-NG-31-143148-10148169</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL002956">
+    <name>South Dakota</name>
+    <docid>eng-WL-11-174611-12981505</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL003781">
+    <name>Bob Andrews</name>
+    <docid>eng-NG-31-149683-10600137</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL002488">
+    <name>Pa</name>
+    <docid>eng-NG-31-100554-11780891</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013258">
+    <name>Qilu Evening News</name>
+    <docid>XIN_ENG_20070117.0186.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL004064">
+    <name>Donald Trump</name>
+    <docid>eng-NG-31-100720-11787257</docid>
+    <entity>E0141366</entity>
+  </query>
+  <query id="EL010091">
+    <name>Al Qaeda</name>
+    <docid>eng-NG-31-142265-10040651</docid>
+    <entity>E0773407</entity>
+  </query>
+  <query id="EL012134">
+    <name>Bisher al-Rawi</name>
+    <docid>APW_ENG_20070726.0689.LDC2009T13</docid>
+    <entity>E0487663</entity>
+  </query>
+  <query id="EL012768">
+    <name>IAG</name>
+    <docid>AFP_ENG_20080522.0569.LDC2009T13</docid>
+    <entity>E0772259</entity>
+  </query>
+  <query id="EL013474">
+    <name>COLUMBUS</name>
+    <docid>APW_ENG_20080523.0401.LDC2009T13</docid>
+    <entity>E0077881</entity>
+  </query>
+  <query id="EL011803">
+    <name>Cecilia Malmstrom</name>
+    <docid>XIN_ENG_20071023.0278.LDC2009T13</docid>
+    <entity>E0104512</entity>
+  </query>
+  <query id="EL011810">
+    <name>Cesaria Evora</name>
+    <docid>APW_ENG_20070418.0208.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL010971">
+    <name>US Senate</name>
+    <docid>eng-NG-31-134071-12158247</docid>
+    <entity>E0593713</entity>
+  </query>
+  <query id="EL005692">
+    <name>GAO</name>
+    <docid>eng-NG-31-102460-11645022</docid>
+    <entity>E0777504</entity>
+  </query>
+  <query id="EL013356">
+    <name>Matthaeus</name>
+    <docid>AFP_ENG_20070613.0307.LDC2009T13</docid>
+    <entity>E0150477</entity>
+  </query>
+  <query id="EL005470">
+    <name>City Council</name>
+    <docid>eng-NG-31-140567-12217032</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013175">
+    <name>Marvel Entertainment Inc.</name>
+    <docid>LTW_ENG_20081205.0124.LDC2009T13</docid>
+    <entity>E0620347</entity>
+  </query>
+  <query id="EL011414">
+    <name>Oman Telecommunications Company</name>
+    <docid>XIN_ENG_20080220.0027.LDC2009T13</docid>
+    <entity>E0578633</entity>
+  </query>
+  <query id="EL004094">
+    <name>Eg White</name>
+    <docid>eng-WL-110-174612-12992849</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL000487">
+    <name>Bucharest</name>
+    <docid>eng-WL-11-174592-12941709</docid>
+    <entity>E0690904</entity>
+  </query>
+  <query id="EL001733">
+    <name>Las Vegas</name>
+    <docid>eng-NG-31-139687-9848837</docid>
+    <entity>E0698625</entity>
+  </query>
+  <query id="EL001398">
+    <name>Indonesia</name>
+    <docid>eng-WL-11-174596-12954446</docid>
+    <entity>E0721307</entity>
+  </query>
+  <query id="EL012729">
+    <name>Louisiana</name>
+    <docid>NYT_ENG_20071105.0213.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012145">
+    <name>Bisher al-Rawi</name>
+    <docid>AFP_ENG_20070111.0269.LDC2009T13</docid>
+    <entity>E0487663</entity>
+  </query>
+  <query id="EL007497">
+    <name>Georgia</name>
+    <docid>eng-WL-11-174574-12934324</docid>
+    <entity>E0583169</entity>
+  </query>
+  <query id="EL009510">
+    <name>Justin Timberlake</name>
+    <docid>eng-NG-31-102460-10983987</docid>
+    <entity>E0448484</entity>
+  </query>
+  <query id="EL003743">
+    <name>Benjamin Friedman</name>
+    <docid>eng-NG-31-151724-10661566</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011890">
+    <name>Air Group Inc.</name>
+    <docid>APW_ENG_20070829.1260.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL001883">
+    <name>Malaysia</name>
+    <docid>eng-WL-110-174632-12995485</docid>
+    <entity>E0362914</entity>
+  </query>
+  <query id="EL012884">
+    <name>Guayaquil</name>
+    <docid>APW_ENG_20080802.0724.LDC2009T13</docid>
+    <entity>E0152870</entity>
+  </query>
+  <query id="EL014084">
+    <name>Chen You-hao</name>
+    <docid>CNA_ENG_20071003.0038.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011448">
+    <name>McCormick's</name>
+    <docid>LTW_ENG_20080522.0076.LDC2009T13</docid>
+    <entity>E0138720</entity>
+  </query>
+  <query id="EL000345">
+    <name>Beijing</name>
+    <docid>eng-WL-11-174575-12944906</docid>
+    <entity>E0241006</entity>
+  </query>
+  <query id="EL013017">
+    <name>HOLLYWOOD</name>
+    <docid>NYT_ENG_20071105.0113.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013023">
+    <name>HOLLYWOOD</name>
+    <docid>NYT_ENG_20080531.0151.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL001170">
+    <name>GA</name>
+    <docid>eng-WL-11-174595-12967533</docid>
+    <entity>E0583169</entity>
+  </query>
+  <query id="EL011430">
+    <name>Randalls</name>
+    <docid>NYT_ENG_20081113.0081.LDC2009T13</docid>
+    <entity>E0465278</entity>
+  </query>
+  <query id="EL013019">
+    <name>HOLLYWOOD</name>
+    <docid>LTW_ENG_20070208.0086.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011260">
+    <name>National Development and Reform Committee</name>
+    <docid>XIN_ENG_20080728.0166.LDC2009T13</docid>
+    <entity>E0085020</entity>
+  </query>
+  <query id="EL013062">
+    <name>Tustin</name>
+    <docid>APW_ENG_20071005.1436.LDC2009T13</docid>
+    <entity>E0294319</entity>
+  </query>
+  <query id="EL001459">
+    <name>Islamabad</name>
+    <docid>eng-WL-11-174596-12955308</docid>
+    <entity>E0194682</entity>
+  </query>
+  <query id="EL004132">
+    <name>George Bush</name>
+    <docid>eng-NG-31-141957-9979329</docid>
+    <entity>E0819391</entity>
+  </query>
+  <query id="EL005477">
+    <name>City Council</name>
+    <docid>eng-NG-31-104379-11892406</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012140">
+    <name>Bisher al-Rawi</name>
+    <docid>NYT_ENG_20070727.0159.LDC2009T13</docid>
+    <entity>E0487663</entity>
+  </query>
+  <query id="EL011279">
+    <name>National Students Union</name>
+    <docid>APW_ENG_20070829.0136.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL001823">
+    <name>Louisiana</name>
+    <docid>eng-WL-11-174596-12958621</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013170">
+    <name>Marvel Entertainment Inc.</name>
+    <docid>LTW_ENG_20080502.0137.LDC2009T13</docid>
+    <entity>E0620347</entity>
+  </query>
+  <query id="EL001253">
+    <name>Hanoi</name>
+    <docid>eng-WL-11-174575-12946033</docid>
+    <entity>E0645089</entity>
+  </query>
+  <query id="EL012138">
+    <name>Bisher al-Rawi</name>
+    <docid>APW_ENG_20070726.0671.LDC2009T13</docid>
+    <entity>E0487663</entity>
+  </query>
+  <query id="EL010712">
+    <name>Salvation Army</name>
+    <docid>eng-NG-31-142464-10046291</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL011746">
+    <name>Cao Jingwei</name>
+    <docid>XIN_ENG_20080718.0254.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012726">
+    <name>Louisiana</name>
+    <docid>APW_ENG_20080902.0184.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL007924">
+    <name>Manchester</name>
+    <docid>eng-WL-11-174611-12981679</docid>
+    <entity>E0467057</entity>
+  </query>
+  <query id="EL014040">
+    <name>Cao Khac Nhat</name>
+    <docid>APW_ENG_20080402.1122.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012038">
+    <name>Fulton</name>
+    <docid>NYT_ENG_20071101.0161.LDC2009T13</docid>
+    <entity>E0489212</entity>
+  </query>
+  <query id="EL011431">
+    <name>Randalls</name>
+    <docid>NYT_ENG_20070816.0116.LDC2009T13</docid>
+    <entity>E0465278</entity>
+  </query>
+  <query id="EL009999">
+    <name>William McGinnis</name>
+    <docid>eng-NG-31-102388-10982535</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013022">
+    <name>HOLLYWOOD</name>
+    <docid>APW_ENG_20071029.1191.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL013376">
+    <name>Minyard</name>
+    <docid>LTW_ENG_20070510.0115.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL003630">
+    <name>Albert Worschey</name>
+    <docid>eng-NG-31-100753-10902978</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL010150">
+    <name>CAA</name>
+    <docid>eng-WL-11-174595-12968108</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012347">
+    <name>Grand National</name>
+    <docid>APW_ENG_20070414.0607.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL001153">
+    <name>Flint</name>
+    <docid>eng-WL-11-174574-12938816</docid>
+    <entity>E0217375</entity>
+  </query>
+  <query id="EL002939">
+    <name>Slovenia</name>
+    <docid>eng-WL-11-174596-12952605</docid>
+    <entity>E0797446</entity>
+  </query>
+  <query id="EL003803">
+    <name>Bob Griffin</name>
+    <docid>eng-NG-31-104385-11708318</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL012115">
+    <name>Adisak Kammool</name>
+    <docid>AFP_ENG_20070405.0207.LDC2009T13</docid>
+    <entity>NIL</entity>
+  </query>
+  <query id="EL006357">
+    <name>Planet X</name>
+    <docid>eng-NG-31-128710-12095762</docid>
+    <entity>E0091383</entity>
+  </query>
+</kbpentlink>
